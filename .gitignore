@@ -1,0 +1,14 @@
+# Build artifacts
+*.obj
+*.OBJ
+*.exe
+*.EXE
+build.log
+BUILD.LOG
+
+# IDE and tool directories
+.vscode/
+
+# Claude Code
+.claude/
+CLAUDE.md
