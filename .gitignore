@@ -12,3 +12,4 @@ BUILD.LOG
 # Claude Code
 .claude/
 CLAUDE.md
+prompt.md
